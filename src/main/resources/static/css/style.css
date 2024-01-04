@@ -17,7 +17,7 @@ body{
 
 .container{
 	padding: 10px;
-	background: #FEFEFE;
+	background: #e07474;
 	border-radius: 10px;
 	transition: transform .5s ease;
 }
@@ -30,7 +30,7 @@ body{
 	padding: 20px 10px;
 	margin: 10px;
 	box-shadow: 2px 2px 5px rgba(0,0,0,0.2), -2px -2px 3px rgba(0,0,0,0.2);
-	background: #F0F0F0;
+	background: #ff9898;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -41,20 +41,20 @@ body{
 .card .title{
 	font-size: 25px;
 	font-weight: bold;
-	color: #001B4A;
+	color: #4a4600;
 	margin: 5px 5px 10px;
 }
 
 .card .description{
 	font-size: 15px;
-	color: #30456C;
+	color: #696c30;
 	margin: 5px 5px 10px;
 	word-break: break-all;
 	white-space: normal;
 }
 
 .card .btn-submit{
-	background: #012970;
+	background: #bdb401;
 	color: #FFF;
 	font-size: 14px;
 	font-weight: bold;
@@ -68,7 +68,7 @@ body{
 }
 
 .card .btn-submit:hover{
-	background: #124694;
+	background: #cbce0f;
 	color: #F0F0F0;
 }
 
